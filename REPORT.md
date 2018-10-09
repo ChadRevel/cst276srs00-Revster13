@@ -1,7 +1,7 @@
 Name: Chad Revel
 
-Unresolved Issues: Place your unresolved issues here. Include things you tried to resolve them. 
+Unresolved Issues: There were no unresolved issues.
 
-Notes: The more concise and detailed the notes, the better the grade.  
+Notes: This took me a few tries to finally get it correct, but this one should be the last one needed.  
 
 ###
